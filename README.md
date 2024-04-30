@@ -1,2 +1,2 @@
-# Ukrainian-Latin-Minecraft
+# MinecraftLatinUA
 Ukrainian Latin localization for Minecraft
