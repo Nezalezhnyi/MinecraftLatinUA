@@ -1,0 +1,14 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "The Ukrainian Latin Alphabet localization for the Minecraft 1.19"
+   },
+   "language": {
+      "my_language": {
+         "name": "Ukrajins'ka (Prudeusuvycja)",
+         "region": "Ukraine",
+         "bidirectional": false
+      }
+   }
+}
+

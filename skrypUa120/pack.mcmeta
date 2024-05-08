@@ -1,0 +1,14 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": "Покращена українська льокалізація Майнкрафту 1.20 на основі Скрипниківки"
+   },
+   "language": {
+      "mylanguage": {
+         "name": "Українська (Скрипниківка)",
+         "region": "Ukraine",
+         "bidirectional": false
+      }
+   }
+}
+
